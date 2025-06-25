@@ -10,4 +10,4 @@ A Python script that displays all saved Wi-Fi profiles and their passwords on a 
 ## 💻 How to Use
 
 ```bash
-python wifi_password_viewer.py
+python wifi_password_extractor.py
